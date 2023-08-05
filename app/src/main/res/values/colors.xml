@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFBB86FC</color>
+    <color name="colorPrimary">#FA8072</color>
+    <color name="colorPrimaryDark">#FF00C853</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#FFFFAB00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FFA500</color>
+</resources>
+
+
+<!--
+
+ <color name="colorAccent">#FFBB86FC</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+//    <color name="colorAccent">#FF00C853</color>  Change to a green color
+<color name="colorPrimary">#FFD50000</color> - Change to a red color
+<color name="colorPrimaryDark">#FFAA00FF</color>  Change to a purple color
+<color name="colorSecondary">#FFFFAB00</color>  Change to a yellow color
+<color name="colorSecondaryVariant">#FF6200EA</color>  Change to a deep purple color
+
+<color name="colorOnSecondary">#FF000000</color>
+<color name="white">#FFFFFFFF</color
+
+
+!-->
